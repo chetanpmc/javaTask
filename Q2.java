@@ -1,5 +1,5 @@
 						// Q2 Will the following method compile? If not, why?
-
+						// Yes It Will 
 import java.util.ArrayList;
 import java.util.List;
 
