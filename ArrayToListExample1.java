@@ -6,7 +6,7 @@ public class ArrayToListExample1
 //creating an array and prints the array
         String array[] = { "Cricket", "Baseball", "Volleyball",};
         System.out.println("Array before conversion: "+ Arrays.toString(array));
-
+                        // USING NATIVE METHOD
         //calling the generic function that converts Array into List And print the List
         List<String> list = ArrayToListConversion(array);
         System.out.println("Array as List: " + list);
