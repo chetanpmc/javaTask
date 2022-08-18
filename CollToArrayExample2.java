@@ -11,7 +11,7 @@ public class CollToArrayExample2
 
 // Add some elements into this LinkedList
         list.add("Rachel");
-        
+
         System.out.println("Before Conversion , LinkedList elements : " + list);
 
         Object arr[] = list.toArray();
